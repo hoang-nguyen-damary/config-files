@@ -1,0 +1,14 @@
+{
+    "API_URL": "aHV2c3c/KShpeWMlaGxjbmJoPGttbzk=",
+    "SOCKET_URL": "d3JxOSsqcXQla2NlImlvYnFjaz1sbGw",
+    "IPMaster": "d3JxOSsqYWZlbCRvbWBvfWk/fHZgOnp4entjNnhhbGNxfQ==",
+    "IS_DECODE": true,
+    "USER_TOKEN": "user_token",
+    "LOGIN_USE_TOKEN": true,
+    "LOGIN_IFRAME": false,
+    "URL_TOKEN": "token",
+    "URL_CODE": "code",
+    "IS_PRODUCTION": true,
+    "LOBBY_SCENE_NAME": "lobby",
+    "LOGIN_SCENE_NAME": "login"
+}
